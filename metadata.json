@@ -1,0 +1,6 @@
+{
+  "name": "Pioneer Academy, Sonapur",
+  "description": "Encrypted school management portal with OTP-verified RBAC authentication, grading, attendance, study notes, automated report cards, real-time parent-teacher messaging, notice board, and digital admissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
